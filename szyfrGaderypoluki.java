@@ -3,7 +3,7 @@
 import java.util.Scanner;
 
 class Main {
-    
+
     private static String zaszyfrujTekstG(String tekst){
         String zaszyfrowany = "";
         for(int i = 0; i<tekst.length(); i++){
